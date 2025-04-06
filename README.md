@@ -4,7 +4,7 @@
   <img src="https://kenz.cloudx.biz.id/download/1743233830524.png" alt="API Documentation Preview" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
 
-Welcome to **LatestX-UI**, an open-source REST API documentation website created by Raol! This project provides a clean, modern interface for documenting API endpoints with premium features and full customization capabilities.
+Welcome to **kenz-UI**, an open-source REST API documentation website created by Kenz! This project provides a clean, modern interface for documenting API endpoints with premium features and full customization capabilities.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/alzzhosting/kenz-UI.git&framework=nextjs&project-name=latestx-ui&repository-name=LatestX-UI)
 
